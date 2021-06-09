@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/online-movie-db/static/css/main.c903f287.chunk.css",
+    "main.js": "/online-movie-db/static/js/main.b5c552b8.chunk.js",
+    "main.js.map": "/online-movie-db/static/js/main.b5c552b8.chunk.js.map",
+    "runtime-main.js": "/online-movie-db/static/js/runtime-main.e621bb0d.js",
+    "runtime-main.js.map": "/online-movie-db/static/js/runtime-main.e621bb0d.js.map",
+    "static/js/2.ec563205.chunk.js": "/online-movie-db/static/js/2.ec563205.chunk.js",
+    "static/js/2.ec563205.chunk.js.map": "/online-movie-db/static/js/2.ec563205.chunk.js.map",
+    "index.html": "/online-movie-db/index.html",
+    "static/css/main.c903f287.chunk.css.map": "/online-movie-db/static/css/main.c903f287.chunk.css.map",
+    "static/js/2.ec563205.chunk.js.LICENSE.txt": "/online-movie-db/static/js/2.ec563205.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e621bb0d.js",
+    "static/js/2.ec563205.chunk.js",
+    "static/css/main.c903f287.chunk.css",
+    "static/js/main.b5c552b8.chunk.js"
+  ]
+}
